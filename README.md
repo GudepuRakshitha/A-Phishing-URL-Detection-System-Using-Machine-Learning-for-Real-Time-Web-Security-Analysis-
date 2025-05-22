@@ -49,11 +49,9 @@ If any red flags are found, a phishing warning is displayed.
 
 ## 🖼️ Sample outputs
 
-| UI View | Phishing Detected | Safe URL |
-|--------|-------------------|----------|
-| | Interface                                                           | Phishing Detected                                                   | Safe URL                                                                              |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| <img src="./4a051735-5667-482c-a84a-dcfac3287c54.jpg" width="250"/> | <img src="./797871cc-3dcb-4c2f-a524-067dd54996c5.jpg" width="250"/> | <img src="./WhatsApp%20Image%202025-05-22%20at%2014.57.05_b5c3db1f.jpg" width="250"/> |
+![image](https://1drv.ms/i/c/bf753145cd8886a6/Efslx6X12rBCs513a3oaUGwBZayO19YWU4REU7xImHWrtA?e=ofyIuL)
+![image](https://1drv.ms/i/c/bf753145cd8886a6/EYFZyMbLlAZCgvhRuELsFTMBgoFhVl29hDD2rQj4s7xFJQ?e=yLESvy)
+![image](https://1drv.ms/i/c/bf753145cd8886a6/ERGRuJmBjMBGtP_Z5g8sXucBsd8C6POMg_tOMm4sJuUQxA?e=z1ciHW)
 
 ---
 
@@ -82,7 +80,6 @@ If any red flags are found, a phishing warning is displayed.
 
 ---
 
----
 
 ## 💡 Acknowledgment
 
