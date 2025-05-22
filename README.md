@@ -51,7 +51,9 @@ If any red flags are found, a phishing warning is displayed.
 
 | UI View | Phishing Detected | Safe URL |
 |--------|-------------------|----------|
-| ![UI](./4a051735-5667-482c-a84a-dcfac3287c54.jpg) | ![Phishing](./797871cc-3dcb-4c2f-a524-067dd54996c5.jpg) | ![Safe](./WhatsApp%20Image%202025-05-22%20at%2014.57.05_b5c3db1f.jpg) |
+| | Interface                                                           | Phishing Detected                                                   | Safe URL                                                                              |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| <img src="./4a051735-5667-482c-a84a-dcfac3287c54.jpg" width="250"/> | <img src="./797871cc-3dcb-4c2f-a524-067dd54996c5.jpg" width="250"/> | <img src="./WhatsApp%20Image%202025-05-22%20at%2014.57.05_b5c3db1f.jpg" width="250"/> |
 
 ---
 
